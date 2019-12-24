@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">edukasipenyakit</string>
+    <string name="move_activity">MASUK</string>
+    <string name="move_with_data">DAFTAR</string>
+    <string name="dial_number">lupa password</string>
+    <string name="daftar">Data Diterima</string>
+    <string name="this_is_moveactivity">Ini MoveActivity</string>
+    <string name="nama_penyakit">Nama penyakit</string>
+    <string name="detail">Detail Penyakit</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>
